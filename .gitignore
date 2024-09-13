@@ -1,0 +1,28 @@
+# Dfinity Mops specific
+.mops/
+
+# Common build and temporary files
+*.log
+*.tmp
+*.swp
+*.swo
+*.DS_Store
+*.env
+
+# Node.js specific
+node_modules/
+npm-debug.log
+
+# Rust specific
+/target/
+Cargo.lock
+
+# IDE specific
+.vscode/
+.idea/
+
+# Operating system specific
+Thumbs.db
+Desktop.ini
+.mops
+
