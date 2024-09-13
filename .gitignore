@@ -1,6 +1,6 @@
 # Dfinity Mops specific
 .mops/
-
+.dfx/
 # Common build and temporary files
 *.log
 *.tmp
